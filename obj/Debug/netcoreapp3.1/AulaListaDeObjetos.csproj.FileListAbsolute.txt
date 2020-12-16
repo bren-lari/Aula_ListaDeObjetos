@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\bin\Debug\netcoreapp3.1\AulaListaDeObjetos.exe
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\bin\Debug\netcoreapp3.1\AulaListaDeObjetos.deps.json
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\bin\Debug\netcoreapp3.1\AulaListaDeObjetos.runtimeconfig.json
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\bin\Debug\netcoreapp3.1\AulaListaDeObjetos.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\bin\Debug\netcoreapp3.1\AulaListaDeObjetos.dll
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\bin\Debug\netcoreapp3.1\AulaListaDeObjetos.pdb
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\obj\Debug\netcoreapp3.1\AulaListaDeObjetos.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\obj\Debug\netcoreapp3.1\AulaListaDeObjetos.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\obj\Debug\netcoreapp3.1\AulaListaDeObjetos.AssemblyInfo.cs
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\obj\Debug\netcoreapp3.1\AulaListaDeObjetos.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\obj\Debug\netcoreapp3.1\AulaListaDeObjetos.dll
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\obj\Debug\netcoreapp3.1\AulaListaDeObjetos.pdb
+C:\Users\dev\Desktop\Aula_DEV\AulaListaDeObjetos\obj\Debug\netcoreapp3.1\AulaListaDeObjetos.genruntimeconfig.cache
